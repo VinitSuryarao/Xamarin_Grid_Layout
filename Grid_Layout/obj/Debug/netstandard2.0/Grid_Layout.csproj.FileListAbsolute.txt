@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\bin\Debug\netstandard2.0\Grid_Layout.deps.json
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\bin\Debug\netstandard2.0\Grid_Layout.dll
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\bin\Debug\netstandard2.0\ref\Grid_Layout.dll
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\bin\Debug\netstandard2.0\Grid_Layout.pdb
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.dll
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\ref\Grid_Layout.dll
+E:\Study\Code\Xamarin\Grid_Layout\Grid_Layout\obj\Debug\netstandard2.0\Grid_Layout.pdb
